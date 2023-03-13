@@ -9,5 +9,4 @@ This project is a website that generates strong, random passwords for users. The
 !["Successfully Generated Password"](/Develop/Images/Successfully%20Generated%20Password.png)
 
 ## Link
-
-
+[JGs Random Password Generator](https://jadyngg19.github.io/PasswordGenerator_2/)
